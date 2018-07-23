@@ -1,0 +1,13 @@
+{
+	"name": "ifrau-import",
+	"description": "An HTML import for https://github.com/Brightspace/ifrau",
+	"authors": [
+	  "D2L Corporation"
+	],
+	"license": "Apache-2.0",
+	"homepage": "https://github.com/Brightspace/ifrau-import",
+	"ignore": [
+	  "**/.*",
+	  "bower_components"
+	]
+  }
